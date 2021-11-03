@@ -5,5 +5,5 @@ name = "secrets"
 enabled = true
 
 [[analyzers]]
-name = "github.com/srijan-deepsource/django-antipatterns"
+name = "github.com/sourya-deepsource/django-antipatterns"
 enabled = true
