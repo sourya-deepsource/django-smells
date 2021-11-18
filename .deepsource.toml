@@ -11,3 +11,7 @@ enabled = true
 [[analyzers]]
 name = "github.com/sourya/django-antipatterns"
 enabled = true
+
+[[analyzers]]
+name = "gitlab.com/sourya/django-antipatterns"
+enabled = true
